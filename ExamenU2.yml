@@ -1,0 +1,6 @@
+db:
+  url: jdbc:postgresql://localhost:5432/ExamenU2
+  username: vanessa2706
+  password: vane123
+  maximum-pool-size: 5
+  connection-timeout: 20000
