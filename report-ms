@@ -1,2 +1,2 @@
 ranking:
-  template: 
+  template: "Equipo {equipo}, su esfuerzo brilla con cada logro. Detalles de puntuación: {detalles}. ¡Orgullo total! ¡Vamos por más!"
