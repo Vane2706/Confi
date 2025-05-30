@@ -1,0 +1,4 @@
+report:
+  template:
+    prestamo: "📊 Prestamo ID: {id} | Monto: {monto} | Tasa: {tasa} | Cuotas: {cuotas} | Fecha Inicio: {fecha_inicio} | Estado: {estado}"
+    cuota: "💰 Cuota ID: {id} | Fecha Pago: {fecha_pago} | Monto: {monto} | Estado: {estado}"
