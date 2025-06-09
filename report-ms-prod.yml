@@ -1,0 +1,4 @@
+report:
+  template:
+    prestamo: "<div class='alert alert-info'>📊 Prestamo ID: {id} | Monto: {monto} | Tasa: {tasa} | Cuotas: {cuotas} | Fecha Creada: {fecha_creacion} | Estado: {estado}</div>"
+    cuota: "<div class='alert alert-success'>💰 Cuota ID: {id} | Fecha Pago: {fecha_pago} | Monto: {monto} | Estado: {estado}</div>"
