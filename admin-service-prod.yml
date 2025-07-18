@@ -1,7 +1,7 @@
 db:
-  url: jdbc:postgresql://db-credi:5432/credi
+  url: jdbc:postgresql://dpg-d1sqnler433s73ekut4g-a:5432/credi
   username: crediahorro
-  password: levidv
+  password: kKzXfS67Wfivr0dQ3nnJDWa9qhsl60Ag
   maximum-pool-size: 5
   connection-timeout: 20000
 
